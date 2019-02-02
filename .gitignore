@@ -1,0 +1,4 @@
+data/*
+Gemfile.lock
+vendor/
+.bundle/
